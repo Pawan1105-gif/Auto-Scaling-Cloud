@@ -1,0 +1,7 @@
+model,split,mae,rmse,r2,data_origin,notes
+Random Forest,validation,2.343259641258069,2.9374318059336666,0.7999175247240758,simulated,Computed on the synthetic workload. Not a published paper score.
+Random Forest,test,2.356871436119893,2.964358809842493,0.8364435417831139,simulated,Computed on the synthetic workload. Not a published paper score.
+Persistence,test,5.798280000000001,7.775564781201856,-0.1253044733509434,simulated,Computed on the synthetic workload. Not a published paper score.
+Mean,test,5.8072118619047615,7.601176562776037,-0.0753944690555199,simulated,Computed on the synthetic workload. Not a published paper score.
+LSTM,validation,4.226700087331136,5.560127150543268,0.2831258636555313,simulated,Computed on the synthetic workload. Not a published paper score.
+LSTM,test,4.686107715352376,5.968688716213527,0.3369229190321742,simulated,Computed on the synthetic workload. Not a published paper score.

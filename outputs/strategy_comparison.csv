@@ -1,0 +1,5 @@
+strategy,avg_cpu,std_cpu,sla_count,sla_percent,avg_latency_ms,scale_up_count,scale_down_count,total_scaling_actions,avg_vms,vm_hours,estimated_cost_usd
+Strategy A: Traditional Threshold,51.71,11.39,0,0.0,97.29,0,0,0,3.0,5.0,0.115
+Strategy B: Forecast-Only,51.71,11.39,0,0.0,97.29,0,0,0,3.0,5.0,0.115
+Strategy C: RL-Only,51.71,11.39,0,0.0,97.29,0,0,0,3.0,5.0,0.115
+Strategy D: Hybrid LSTM + Q-Learning,51.71,11.39,0,0.0,97.29,0,0,0,3.0,5.0,0.115
